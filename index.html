@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title></title>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.css" />
+<style>
+html, body {
+    padding: 0px;
+    margin: 0px;
+}
+
+html, body, #map {
+    width: 100%;
+    height: 100%;
+}
+.tick line {
+    stroke-dasharray: 2 2 ;
+    stroke: #ccc;
+}
+
+</style>
+
+</head>
+
+<body>
+<div id="map"></div>
+
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.1.1/d3.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.3/leaflet.js"></script>
+<script>
+!(function(){
+    "use strict";
+
+    var map;
+
+    d3.json("data.geojson",main);
+
+
+    function main(data) {
+        addLmaps();
+        drawFeatures(data);
+    }
+
+    function addLmaps() {
+
+        map = L.map('map').setView([39.702053　, 141.15448379999998], 5);
+
+        L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+
+        L.svg().addTo(map);
+
+    }
+
+
+    function projectPoint(x, y) {
+        var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+        this.stream.point(point.x, point.y);
+    }
+
+    function drawFeatures(data) {
+        var svg = d3.select("#map").select("svg");
+
+        var transform = d3.geoTransform({point: projectPoint});
+        var path = d3.geoPath().projection(transform);
+
+
+
+
+        var featureElement = svg.selectAll("path")
+            .data(data.features)
+            .enter()
+            .append("path")
+            .attr("class","path")
+            .attr("stroke", "gray")
+            .attr("fill", "green")
+
+    // .ease("linear")
+
+        map.on("moveend", update);
+
+        update();
+
+
+
+        function update() {
+            featureElement
+            .attr("d", path);
+
+
+            var path1 = d3.select(".path");
+
+            var points = path1.node().getPointAtLength(0);
+
+            console.log(points);
+
+            var circle = svg.append("circle")
+              .attr("r", 13)
+              .attr("x", points.x)
+              .attr("y", points.y);
+
+
+
+
+
+        circle.transition()
+              .duration(10000)
+              .attrTween("transform", translateAlong(path1.node()))
+
+
+
+
+
+        function translateAlong(path) {
+          var l = path1.node().getTotalLength();
+          return function(d, i, a) {
+            return function(t) {
+              var p = path1.node().getPointAtLength(t * l);
+              return "translate(" + p.x + "," + p.y + ")";
+            };
+          };
+        }
+
+
+            // var circle = svg.append("circle")
+            //     .attr({
+            //     r: 10,
+            //     fill: '#f33',
+            //     transform: function () {
+            //         var p = path1.node().getPointAtLength(0)
+            //         console.log(p);
+            //         return "translate(" + [p.x, p.y] + ")";
+            //     }
+            // });
+
+
+
+
+
+
+            var totalLength = path1.node().getTotalLength();
+
+            console.log(totalLength);
+
+            featureElement.attr("stroke-dasharray", totalLength + " " + totalLength)
+      .attr("stroke-dashoffset", totalLength)
+      .transition()
+        .duration(10000)
+        // .ease("linear")
+        .attr("stroke-dashoffset", 0);
+
+//
+//         circle.transition()
+//     .duration(duration)
+//     .ease("linear")
+//     .attrTween("transform", function (d, i) {
+//     return function (t) {
+//         var p = pathNode.getPointAtLength(pathLength*t);
+//         return "translate(" + [p.x, p.y] + ")";
+//     }
+// });
+
+
+
+
+
+        }
+
+    }
+
+
+}());
+</script>
+</body>
+</html>

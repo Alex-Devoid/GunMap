@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4612"
+    }
+  },
+
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "JCODE": "01101",
+        "KEN": "北海道",
+        "SICHO": "石狩振興局",
+        "GUN": null,
+        "SEIREI": "札幌市",
+        "SIKUCHOSON": "中央区",
+        "CITY_ENG": "Sapporo-shi, Chuo-ku",
+        "P_NUM": 220404,
+        "H_NUM": 120704
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+
+            [ 137.135474,37.958505],
+
+            [ 136.607690,33.398048]
+
+        ]
+      }
+    }  ]
+}
