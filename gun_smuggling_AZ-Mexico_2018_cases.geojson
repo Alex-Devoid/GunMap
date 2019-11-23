@@ -1,0 +1,3396 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "id": "125",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97423, 31.46736]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-28T00:00:00.000Z",
+        "description": "Laura Garcia-Hernandez obtained four AR-15 rifles along with magazines and ammo from an individual in Rio Rico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "125",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9324, 31.36033]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-28T00:00:00.000Z",
+        "description": "Law enforcement found the four AR-15 rifles, magazines and ammo in Laura Garcia-Hernandez's car at the walmart parking lot in Nogales,Arizona.She would be paid $700 to take them across the border."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.8346, 33.34735]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-02-18T00:00:00.000Z",
+        "description": "Abraham Garcia buys two Century Arms RAS47 rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-07T00:00:00.000Z",
+        "description": "Erik Camacho-Medina buys one Century Arms RAS47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-10T00:00:00.000Z",
+        "description": "Valentin Robledo and Erik Camacho-Medina each bought a Century Arms WASR-10/63 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92723, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-10T00:00:00.000Z",
+        "description": "Martin Castelo to bought a Century Arms RAS47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.8346, 33.34735]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-18T00:00:00.000Z",
+        "description": "Jorge Perez-Elias bought Century Arms RAS47 rifle in Chandler."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-06T00:00:00.000Z",
+        "description": "Diana Granillo bought Colt M4 Carbine rifle in Tucson."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91719, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-10T00:00:00.000Z",
+        "description": "Diana Granillo bought Colt M4 Carbine rifle in Tucson."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91720, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-12T00:00:00.000Z",
+        "description": "Camacho-Medina bought Century Arms RAS47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-108.2143, 25.8257]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-17T00:00:00.000Z",
+        "description": "Mexican authorities recovered two rifles that Abraham Garcia bought on February 18, 2017."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-18T00:00:00.000Z",
+        "description": "Camacho-Medina bought FEG/Century Arms SA2000M rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-19T00:00:00.000Z",
+        "description": "Miguel Antonio Granillo bought Century Arms RAS47, 7.62x39mm rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.965389, 32.202850]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-20T00:00:00.000Z",
+        "description": " Camacho-Medina and Jorge Perez-Elias bought a Century Arms RAS47 rifle and a Romearm/Century Arms WASR—10/63 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-20T00:00:00.000Z",
+        "description": "Yesenia Salazar bought a Century Arms RAS47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-21T00:00:00.000Z",
+        "description": "Cesar Meza-Romo attempted to smuggle six firearms into Mexico. Camacho-Medina, Salazar, Perez-Elias and Granillo had bought five of these guns between July 18 and July 20."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "131",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-25T00:00:00.000Z",
+        "description": "Erik Camacho- Medina bought a Zastava N-PAP M70 rifle."
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": "162",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98776, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-01-25T00:00:00.000Z",
+        "description": "Luis Enrique Antunez bought an Inter Ordnance Sporter rifle."
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88252, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-03-11T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Gabriel Aguilar to buy a Smith and Wesson M&P15 rifle and a Colt Defense M4 Carbine rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.87554, 32.19834]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-04-07T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Gabriel Aguilar to buy a Colt Defense M4 Carbine rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.965390, 32.202850]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-09-25T00:00:00.000Z",
+        "description": " Edgar Carpio-Portillo gave money to Manuel Aguilar to buy a Century Arms RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-18T00:00:00.000Z",
+        "description": " Edgar Carpio-Portillo gave money to Manuel Aguilar to buy a Century Arms RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91720, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-10T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Bryanna Martinez to buy a Century Arms RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.99103, 32.27252]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-15T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Bryanna Martinez to buy a Colt Defense M4 Carbine rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98776, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-16T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Bryanna Martinez to buy a Century Arms AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97859, 32.27701]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-16T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Manuel Aguilar to buy a Colt Defense M4 Carbine rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-22T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Manuel Aguilar to buy a Century Arms AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-27T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo gave money to Bryanna Martinez to buy a Century Arms GP 1975 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91720, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-27T00:00:00.000Z",
+        "description": "Edgar Carpio-Portillo and Bryanna Martinez gave money to Sabrina Chavez to buy a Palmetto PSAK-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.04251, 31.2312]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-27T00:00:00.000Z",
+        "description": "Some of the firearms for Edgar Carpio Portillo et al. were located in Mexico at Cartel-related crime scenes."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "594",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-20T00:00:00.000Z",
+        "description": "Pascual Ibarra Cortez bought a Palmetto PSAK-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "594",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-20T00:00:00.000Z",
+        "description": "Enrique Ramon Vallejo bought a Century Arms International RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "594",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91720, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-24T00:00:00.000Z",
+        "description": "Enrique Ramon Vallejo bought an Inter Ordnance Sporter rifle and a Century Arms International AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "594",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98776, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-24T00:00:00.000Z",
+        "description": "Pascual Ibarra Cortez bought a Century Arms International AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "594",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98777, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-27T00:00:00.000Z",
+        "description": "Enrique Ramon Vallejo bought a Century Arms International AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "594",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.04251, 31.2312]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-09-15T00:00:00.000Z",
+        "description": "One firearm from Pascual Ibarra Cortez et al. was recovered somewhere in Mexico on August 15, 2018."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-02-16T00:00:00.000Z",
+        "description": "Katie Ellen O'Brien bought a CZ 75B 40 caliber pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-06T00:00:00.000Z",
+        "description": "Michael Huynh bought a PAP M92PV AK-47 style rifle."
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-08T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms RAS-47 rifle."
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-07-10T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-08-12T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms WASR-10."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-09-01T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98776, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-09-25T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms 63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-09-29T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms RAS-47 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-03T00:00:00.000Z",
+        "description": "Katie Ellen O'Brien bought a Century Arms RAS-47 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98776, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-24T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms AK63DS AK-type rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-24T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms RAS-47 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-27T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms M70 AB2 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96061, 32.25992]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-02T00:00:00.000Z",
+        "description": "Michael Huynh bought a Romarm/Cugir GP/WASR-10/63 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98776, 32.27245]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-28T00:00:00.000Z",
+        "description": "Katie Ellen O'Brien a Colt AR-15 LE6920 rifle."
+      }
+
+    },
+
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-12T00:00:00.000Z",
+        "description": "Michael Huynh bought a Century Arms RAS-47 AK-type rifle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.05059, 32.32965]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-15T00:00:00.000Z",
+        "description": "Michael Huynh bought a Bushmaster BA50 rifle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97859, 32.27701]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-21T00:00:00.000Z",
+        "description": "Michael Huynh bought a Romarm WASR-10 AK-style rifle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.11548, 33.66128]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-23T00:00:00.000Z",
+        "description": "Michael Huynh bought a Bushmaster BA50 rifle"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.965390, 32.202850]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-27T00:00:00.000Z",
+        "description": "Michael Huynh bought a TNW HBM2 .50 caliber semi-automatic belt-fed, tripod mounted firearm."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.965390, 32.202850]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-27T00:00:00.000Z",
+        "description": "Michael Huynh bought a TNW HBM2 .50 caliber semi-automatic belt-fed, tripod mounted firearm."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.31275, 24.14264]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-29T00:00:00.000Z",
+        "description": "A Century Arms RAS-47 rifle that was bought on October 24, 2017 by Michael Huynh was recovered on January 29, 2018 by Mexican law enforcment after a shootout with cartel members in La Paz, Baja California Sur."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "656",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-107.39401, 24.80906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-22T00:00:00.000Z",
+        "description": "A Colt M4 rifle tied to the smuggling ring in Michael Huynh et al. was recovered on July 22, 2017 in Culiacan, Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.10403, 33.68416],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-09-28T00:00:00.000Z",
+        "description": "Jose Sanchez Moreno bought three Colt semi-automatic rifles and smuggled into Mexico through Nogales."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.10403, 33.68416],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-09-28T00:00:00.000Z",
+        "description": "Jose Sanchez Moreno bought three Colt semi-automatic rifles and smuggled into Mexico through Nogales."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.10403, 33.68416],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-10-03T00:00:00.000Z",
+        "description": "Jose Sanchez Moreno bought three Colt Expanse semi-automatic rifles and smuggled them into Mexico through Nogales."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.10403, 33.68416],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-10-03T00:00:00.000Z",
+        "description": "Jose Sanchez Moreno bought three Colt Expanse semi-automatic rifles and smuggled them into Mexico through Nogales."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "759",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.563216, 32.744928]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-03T00:00:00.000Z",
+        "description": "Jose Sanchez Moreno was pulled over on I10 near Eloy with three rifles and 5 magazines."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-07-02T00:00:00.000Z",
+        "description": "Jose Daniel Medina bought an unknown firearm."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-07-02T00:00:00.000Z",
+        "description": "Jose Daniel Medina bought a Century Arms AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.91718, 32.18473],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-11T00:00:00.000Z",
+        "description": "Jose Daniel Medina bought a Century Arms AK63DS rifle and smuggled it into Mexico through Nogales."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-11T00:00:00.000Z",
+        "description": "Jose Daniel Medina bought a Century Arms AK63DS rifle and smuggled it into Mexico through Nogales."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.91718, 32.18473],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-27T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico an I.O. M214 Nano pistol and a Century Arms RAS-47 pistol that were bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-27T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico an I.O. M214 Nano pistol and a Century Arms RAS-47 pistol that were bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.96553, 32.20276],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-15T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico an AK63DS rifle that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96553, 32.20276],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-15T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico an AK63DS rifle that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.9878, 32.27237],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-18T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Century Arms M-PAP rifle that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9878, 32.27237],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-18T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Century Arms M-PAP rifle that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.97459, 32.2508],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-22T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Century Arms RAS-47 pistol that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-22T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Century Arms RAS-47 pistol that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.97459, 32.2508],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-10T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Century Arms Micro DRACO pistol that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-10T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Century Arms Micro DRACO pistol that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.97459, 32.2508],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-03T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Barrett 82A1 rifle that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-03T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Barrett 82A1 rifle that he bought earlier the same day."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "819",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-03T00:00:00.000Z",
+        "description": "Jose Daniel Medina smuggled into Mexico a Glock 19 pistol and a Rugar Mark IV pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.8881, 32.20641]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-17T00:00:00.000Z",
+        "description": "Stephanie Eded Camacho bought two Smith & Wesson SV9VE pistols and a Barreta PX4 Storm pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.8881, 32.20641]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-20T00:00:00.000Z",
+        "description": " Leslie Gutierrez bought a Barreta PX4 Storm pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-23T00:00:00.000Z",
+        "description": "Stephanie Eded Camacho bought a Glock 43 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88252, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-26T00:00:00.000Z",
+        "description": " Leslie Gutierrez bought a Glock 43 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84192, 32.20717]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-26T00:00:00.000Z",
+        "description": "Stephanie Eded Camacho bought a Beretta 9000 pistol and a Barreta PX4 Storm pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9878, 32.27237]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-31T00:00:00.000Z",
+        "description": "Stephanie Eded Camacho bought a Century Arms AK63DS rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "952",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-31T00:00:00.000Z",
+        "description": " Leslie Gutierrez bought a Century Arms RAS-47."
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.94289, 31.33278]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-14T00:00:00.000Z",
+        "description": "Jesus Manuel Redondo-Fimbres is stopped in Nogales on his way to Mexico with ammo and guns his the car. Gardenia Rincon-Avilez had purchased two of the guns."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.31753, 33.60165]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-07T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold nine New Frontier LW-15 AR-15 lower receivers to Azucena Rincon-Avilez."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.31753, 33.60165]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-12T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold 20 New Frontier LW-15 AR-15 lower receivers to Azucena Rincon-Avilez."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.31755, 33.60165]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-02T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold 25 New Frontier LW-15 AR-15 lower receivers to Azucena Rincon-Avilez."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.31755, 33.60165],
+          [-111.92295, 33.66484],
+          [-110.97471, 32.2226]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-07T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold 25 New Frontier LW-15 AR-15 lower receivers to Gardenia Rincon-Avilez.She drove them to her sister's apartment in Socttsdale then to Tucson."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.31755, 33.60165],
+          [-111.92295, 33.66484],
+          [-110.97471, 32.2226]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-07T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold 25 New Frontier LW-15 AR-15 lower receivers to Gardenia Rincon-Avilez.She drove them to her sister's apartment in Socttsdale then to Tucson."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.31755, 33.60165],
+          [-111.92295, 33.66484],
+          [-110.97471, 32.2226]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-22T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold 25 New Frontier LW-15 AR-15 lower receivers to Gardenia Rincon-Avilez.She drove them to her sister's apartment in Socttsdale then to Tucson. Two rifles she purchased were recovered in Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.31755, 33.60165],
+          [-111.92295, 33.66484],
+          [-110.97471, 32.2226]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-22T00:00:00.000Z",
+        "description": "Nicholas Brasseur sold 25 New Frontier LW-15 AR-15 lower receivers to Gardenia Rincon-Avilez.She drove them to her sister's apartment in Socttsdale then to Tucson. Two rifles she purchased were recovered in Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.00305, 33.40843],
+          [-112.31755,33.60165]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-28T00:00:00.000Z",
+        "description": "Nicholas Brasseur bought a FN M249S for $7,500 at a gun shop and sold it to Gardenia Rincon-Avilez for $12,500 on an unknown date."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.00305, 33.40843],
+          [-112.31755,33.60165]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-28T00:00:00.000Z",
+        "description": "Nicholas Brasseur bought a FN M249S for $7,500 at a gun shop and sold it to Gardenia Rincon-Avilez for $12,500 on an unknown date."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1141",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.00305, 33.40843]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-01T00:00:00.000Z",
+        "description": "El Mirage police search Nicholas Brasseur's residence on an unrelated matter and found recipts from the Rincon-Avilez sisters bought a FN M249S for $7, 500 at a gun shop and sold it to Gardenia Rincon - Avilez for $12,500 on an unknown date."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1200",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.20515, 32.45387]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-26T00:00:00.000Z",
+        "description": "Arturo Martinez Beltran stopped on I10 on his way to Mexico with 100s of rounds of ammo."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1367",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88252, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-09-16T00:00:00.000Z",
+        "description": "Rafael Yepiz drove Antonio Juan Hernandez and gave him funds to buy a FN Five-seveN pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1367",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-09-16T00:00:00.000Z",
+        "description": "Rafael Yepiz drove Antonio Juan Hernandez and gave him funds to buy an Armalite AR-50 .50BMG rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1367",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-09-19T00:00:00.000Z",
+        "description": "Rafael Yepiz drove Antonio Juan Hernandez and gave him funds to buy a Colt Government .38 Super Caliber Pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1367",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88252, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-10-12T00:00:00.000Z",
+        "description": "Rafael Yepiz drove Antonio Juan Hernandez and gave him funds to buy a FN Five-seveN pistol. One of the guns they bought was recovered in possession of a rip crew, which was holding 32 people hostage."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+
+          [-112.07403, 33.44837],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez drove from Mexico to Phoenix where he paid $2,278 for ammo."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96541, 31.33273],
+          [-112.07403, 33.44837]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez drove from Mexico to Phoenix where he paid $2,278 for ammo."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.07403, 33.44837],
+          [-110.97423, 31.46736]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez drove to Rio Rico where he unpacked the ammo and put it in an engine compartment."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.07403, 33.44837],
+          [-110.97423, 31.46736]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez drove to Rio Rico where he unpacked the ammo and put it in an engine compartment."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.97423, 31.46736],
+          [-110.96687, 31.43029]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez was driving south on I19 towards Mexico when the ammo started exploding. He pulled into a truck stop near Ruby Road and fled."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97423, 31.46736],
+          [-110.96687, 31.43029]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez was driving south on I19 towards Mexico when the ammo started exploding. He pulled into a truck stop near Ruby Road and fled."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1368",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97423, 31.46736],
+          [-110.96687, 31.43029]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Francisco Santana Lopez was driving south on I19 towards Mexico when the ammo started exploding. He pulled into a truck stop near Ruby Road and fled."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1589",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-84.46084, 38.04691],
+          [-110.97704, 31.99702]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-06-18T00:00:00.000Z",
+        "description": "Joseph Gill bought three rifles online for $632 each from budsgunshop.com in Lexington, Kentucky. He ships them to a gunstore in Sahuarita."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1589",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-84.46084, 38.04691],
+          [-110.97704, 31.99702]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-06-18T00:00:00.000Z",
+        "description": "Joseph Gill bought three rifles online for $632 each from budsgunshop.com in Lexington, Kentucky. He ships them to a gunstore in Sahuarita."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1589",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.977511, 32.286801]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-07-28T00:00:00.000Z",
+        "description": "Joseph Gill planned to sell a rifle in the parking lot of a chain italian restaurant."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1589",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-07-30T00:00:00.000Z",
+        "description": "A rifle that Joseph Gill bought was recovered with a member of a drug-trafficking organization near the Nogales port of entry."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-110.98938, 31.89847],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-24T00:00:00.000Z",
+        "description": "Jesus Andres Islava bought a Remington pistol and gave it to someone near the Nogales port of entry."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.98938, 31.89847],
+          [-110.96541, 31.33273]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-24T00:00:00.000Z",
+        "description": "Jesus Andres Islava bought a Remington pistol and gave it to someone near the Nogales port of entry."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-14T00:00:00.000Z",
+        "description": "Jesus Andres Islava bought a Beretta 92FS-22 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-17T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Beretta 92FS-22 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-20T00:00:00.000Z",
+        "description": "Jesus Andres Islava bought pistols and left them on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-20T00:00:00.000Z",
+        "description": "Jesus Andres Islava bought a Bersa Grand Power pistol, a Glock 17 pistol, a Remington 1911 R1 pistol and a Browning Buck Mark pistol and left them on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-24T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Beretta 92FS-22 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-05T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Beretta 85FS pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-14T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Beretta 8M9-22 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-28T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Glock G42 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-02T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Beretta 92FS-22 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-17T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a German Sport Guns GSG-M1911 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-24T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Browning 1911 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-06-14T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a Chiappa 1911 pistol and five German Sport Guns GSG-M1911 pistols. He left them on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1682",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9937, 31.85425]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-13T00:00:00.000Z",
+        "description": "Jesus Andres Islava Eslava bought a German Sport Guns GSG-M1911 pistol and left it on the floorboard of an unlocked vehicle in Green Valley for someone to collect."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1794",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9878, 32.27237]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-04T00:00:00.000Z",
+        "description": "Marco Garcia-Munoz bought two Century Arms RAS-47 rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1794",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.883, 31.21786]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-13T00:00:00.000Z",
+        "description": "A firearm Marco Garcia-Munoz bought was recovered somewhere in Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1794",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+
+          [-112.07403, 33.44837],
+          [-111.37529, 32.63419]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-06-27T00:00:00.000Z",
+        "description": "Marco Garcia-Munoz left Nogales for Phoenix to buy guns. He was stopped on I10 on his way back south."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1794",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96541, 31.33273],
+          [-112.07403, 33.44837],
+          [-111.37529, 32.63419]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-06-27T00:00:00.000Z",
+        "description": "Marco Garcia-Munoz left Nogales for Phoenix to buy guns. He was stopped on I10 on his way back south."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2062",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96527, 31.33271]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-13T00:00:00.000Z",
+        "description": "Ricardo Ruiz Pelayo was stopped at the Nogales port of entry with a Glock 22 pistol, a Glock 19 pistol, a Smith & Sesson M&P-15 rifle, a Aereo precision AR-15 platform rifle, a AR-15 platform rifle and three magazines."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2063",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96553, 32.20276]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-11T00:00:00.000Z",
+        "description": "Irlanda Sanchez Villalobos bought a Colt Government .38 Super Caliber pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2063",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96553, 32.20276]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-21T00:00:00.000Z",
+        "description": "Irlanda Sanchez Villalobos bought a Colt Government .38 Super Caliber pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2063",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96527, 31.33271]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-09T00:00:00.000Z",
+        "description": "Irlanda Sanchez Villalobos bought hundreds of rounds of ammo from May 9 - May 21, 2018."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2065",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-109.94812, 31.33538]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2014-06-14T00:00:00.000Z",
+        "description": "Jesus Mendoza Duarte dropped a bag of over 1,000 rounds of ammo while climbing the fence in Naco."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2116",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+
+          [-112.07403, 33.44837],
+          [-109.56066, 31.33412]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-22T00:00:00.000Z",
+        "description": "Juan Pedro Quijada drove from Douglas to Phoenix and back to smuggle over 2,00 rounds of ammo into Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2116",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-109.54534, 31.34454],
+          [-112.07403, 33.44837],
+          [-109.56066, 31.33412]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-22T00:00:00.000Z",
+        "description": "Juan Pedro Quijada drove from Douglas to Phoenix and back to smuggle over 2,00 rounds of ammo into Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-26T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Savage 62F rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-15T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Savage 62F rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.94118, 32.426]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-16T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Savage 62F rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.94119, 32.426]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-27T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Ruger 11100 Rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-28T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.94119, 32.426]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-30T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle and a Remington 300 Win rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-03T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Remington 770 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-06T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Remington 770 rifle. a Ruger 10/22 rifle and a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-18T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage Mark 2 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-12-30T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Marlin XT-22MR rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-15T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage Axis rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-31T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage Mark 2 rifle and a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.050543, 32.329616]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-03T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a ruger LCP pistol and a Ruger SR22 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.77017, 32.1906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-06T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought three Savage 62F rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.050543, 32.329616]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-09T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Umarex Beretta 92 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-12T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 64F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-17T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Glock 42 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-18T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 64F rifle and a Savage Axis rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-24T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Kel-Tec PMR30 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-04T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought bought two Savage 62F rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-04T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought bought Remington 700 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-12T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle and a Savage Axis rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.050543, 32.329616]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-18T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an Umarex Beretta M9 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-18T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 64F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-23T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Ruger 10/22 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.77017, 32.1906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-24T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Marlin 60 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88252, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-25T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an Umarex Berretta M9 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88253, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-26T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an Umarex Beretta 92FS M9A1."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88254, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-27T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an Beretta Pico pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-28T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-30T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Marlin 60 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-01T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought Savage 62F rifle and a Keystone Crickett rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.77017, 32.1906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-01T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-09T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Ruger LCP pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-11T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.77017, 32.1906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-25T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Marlin 60 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-28T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-28T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.050543, 32.329616]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-04-30T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Ruger LCP2 pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-05T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Remington 700 rifle and a Marlin 60 rifle ."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-07T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle and a Marlin 60 rifle ."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-07T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 64F rifle and a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-10T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Springfield XDS9 Pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0004, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-16T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Ruger 10/22 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0005, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-20T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Remington 770 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.83966, 32.23351]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-26T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-29T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Remington 770 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.77017, 32.1906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-05-31T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-06-05T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Marlin 60 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-06-28T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Ruger 10/22 rifle and a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.0005, 32.13677]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-06-28T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88252, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-09T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an Umarex Beretta M9 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88253, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-13T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Smith and Wesson M&P15 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88253, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-16T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an Umarex beretta M9 pistol."
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-24T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Walther P22 pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-27T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Ruger EC9S pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.05059, 32.32965]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-27T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Walther P22 pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.88253, 32.24313]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-30T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Walther P22 pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.87554, 32.19834]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-03T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Bersa Thunder pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-03T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage Axis rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-08T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Beretta M9 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9826, 31.912]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-08T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Savage 62F rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-17T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought an American Tactical GSG 1911 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.89374, 32.26704]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-08-25T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Glock 22 Gen4 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.05059, 32.32965]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-01T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a GSG Firefly pistol and a Marlin 60 rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-01T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Glock 42 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.05059, 32.32965]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-04T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Remington RRN380 pistol and a Browning Buck Mark pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.77017, 32.1906]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-11T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Savage 62F rifles."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.89374, 32.26704]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-15T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Glock 42 pistol and a Ruger SR22 pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9259, 32.17118]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-19T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two Ruger LCRX revolvers ."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.05059, 32.32965]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-19T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a GSG Firefly pistol and a Browning Buck Mark pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.84284, 32.21969]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-25T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Glock 42 Pistol and a Ruger LCP pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.92722, 32.26568]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-25T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought a Walther CCP pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2272",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.91718, 32.18473]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-26T00:00:00.000Z",
+        "description": "Alejandro Navarro Mendez bought two LCP pistols."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2414",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-109.56066, 31.33412]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-10-25T00:00:00.000Z",
+        "description": "Jesus Romero Erives was stopped at the Douglas port of entry with 12 empty assault rifle magazines in his vehicle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2586",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97471, 32.2226]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-09-20T00:00:00.000Z",
+        "description": "An unknown person agreed to pay $3,650 to an undercover agent for a M-16 fully automatic machine gun and a grenade launcher. The unknown person and a co-conspirator were arrested in a Tucson parking lot buying the weapons."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2586",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.84125, 33.30616]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-10-06T00:00:00.000Z",
+        "description": "Rey Rodriguez-Cota and Juan Tamayo-Payan are taken into custody in a Chander parking lot after buying three fully automatic M-16 machine guns with grenade launchers."
+      }
+    },
+
+
+    {
+      "type": "Feature",
+      "id": "1192",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-114.62281, 32.66812]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-09-05T00:00:00.000Z",
+        "description": "Alfonso Martinez Ayon bought a Barret M99 BMG rifle."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1484",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-114.62281, 32.66812]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2016-04-18T00:00:00.000Z",
+        "description": "Manuel Rodriguez Flores bought two Smith & Wesson pistol and a Phoenix Arms pistol."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "276",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-111.80674, 33.38495],
+          [-111.85961, 33.36225]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-05-25T00:00:00.000Z",
+        "description": "Everardo Murrieta Lopez bought bought pistols and rifles from two gun stores. He knew the weapons would be smuggled into Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "276",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.80674, 33.38495],
+          [-111.85961, 33.36225]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-05-25T00:00:00.000Z",
+        "description": "Everardo Murrieta Lopez bought bought pistols and rifles from two gun stores. He knew the weapons would be smuggled into Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "276",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-111.78946, 33.39024],
+          [-111.70045, 33.37988]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-01T00:00:00.000Z",
+        "description": "Everardo Murrieta Lopez bought bought pistols and rifles from two gun stores. He knew the weapons would be smuggled into Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "276",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.78946, 33.39024],
+          [-111.70045, 33.37988]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-06-01T00:00:00.000Z",
+        "description": "Everardo Murrieta Lopez bought bought pistols and rifles from two gun stores. He knew the weapons would be smuggled into Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-114.78251, 32.4853]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-03-08T00:00:00.000Z",
+        "description": "Erik Pineda Jimenez was caught with two firearms at the San Luis port of entry."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "641",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-114.78251, 32.4853]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-01-15T00:00:00.000Z",
+        "description": "Osvaldo Rios Rocha and Andrew Mie Flores bought firearms at a pawn shop."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "641",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-114.78251, 32.4853],
+          [-112.33689, 34.68805]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-14T00:00:00.000Z",
+        "description": "Osvaldo Rios Rocha and Raheem Abdul-Latif Fuller bought firearms at a pawn shop and a gun shop."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "641",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-114.78251, 32.4853],
+          [-112.33689, 34.68805]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-14T00:00:00.000Z",
+        "description": "Osvaldo Rios Rocha and Raheem Abdul-Latif Fuller bought firearms at a pawn shop and a gun shop."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "641",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.05672, 33.49493]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-24T00:00:00.000Z",
+        "description": "Osvaldo Rios Rocha and Raheem Abdul-Latif Fuller bought firearms at a gun shop."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "775",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-112.26103, 33.53944],
+          [-112.71683, 32.94782]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-16T00:00:00.000Z",
+        "description": "Jackie Stephania Mercado bought a Smith & Wesson M&P15 rifle, wich was recovered near Gila Bend from suspected a rip crew."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "775",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-112.26103, 33.53944],
+          [-112.71683, 32.94782]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-11-16T00:00:00.000Z",
+        "description": "Jackie Stephania Mercado bought a Smith & Wesson M&P15 rifle, wich was recovered near Gila Bend from suspected a rip crew."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2817s",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-111.83147, 33.41518],
+          [-110.94289, 31.33278]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-01T00:00:00.000Z",
+        "description": "Victor Orlando Leal Medina drove nine firearms, 13 magazines and 200 rounds of ammo from Mesa to the Nogales port of entry."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2817s",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-111.83147, 33.41518],
+          [-110.94289, 31.33278]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2017-10-01T00:00:00.000Z",
+        "description": "Victor Orlando Leal Medina drove nine firearms, 13 magazines and 200 rounds of ammo from Mesa to the Nogales port of entry."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4314s",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96801, 32.17345]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-02-20T00:00:00.000Z",
+        "description": "A man had a black duffle bag with five guns in it at a shuttle company. He was going to Nogales and the guns were destined for Mexico."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8682s",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+
+          [-111.68705, 32.90974],
+          [-110.9878, 32.27237]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-07T00:00:00.000Z",
+        "description": "A man who entered the U.S. from Mexico bought a Palmetto State Armory rifle and a Springfield Armory SAR8 rifle in Tucson and then was stopped two days later on I10 near Casa Grand."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8682s",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.9878, 32.27237],
+          [-111.68705, 32.90974]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-07T00:00:00.000Z",
+        "description": "A man who entered the U.S. from Mexico bought a Palmetto State Armory rifle and a Springfield Armory SAR8 rifle in Tucson and then was stopped two days later on I10 near Casa Grand."
+      }
+    },
+
+    {
+      "type": "Feature",
+      "id": "1905",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.96553, 32.20276]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-28T00:00:00.000Z",
+        "description": "Ramon Monreal Rodriguez sent someone to a pawn shop to make firearm purchase."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1905",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [-110.97459, 32.2508]
+        ]
+      },
+      "properties": {
+        "EFF_DATE": "2018-07-31T00:00:00.000Z",
+        "description": "Ramon Monreal Rodriguez sent someone to a gun shop to make firearm purchase."
+      }
+    }
+
+  ]
+}
